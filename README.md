@@ -13,6 +13,6 @@ quarto render walkthrough.ipynb --to pdf
 ```
 
 # Note
-**Quarto: Render** in command palette cannot be used.
+Quarto in docker environment at arm architecture, **Quarto: Render Project** cannot be work properly.
 
-Because environment variable **QUARTO_PYTHON** cannot be set properly in the commande palette.
+In that case local environment.

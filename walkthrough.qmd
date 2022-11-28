@@ -1,7 +1,7 @@
 ---
 title: "My document"
 format:
-  pdf:
+  html:
     toc: true
     number-sections: true
     colorlinks: true

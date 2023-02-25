@@ -4,9 +4,9 @@ QUARTO + Jupyter devcontainer
 # How to use
 1. Build devcontainer
 ```
-devcontainer build --workfolder .
+devcontainer build --workspace-folder .
 ```
-2. Render **.qmd** or **.ipyenv** to other format
+2. Render **.qmd** or **.ipyenv** to other formatCancel changes
 ```
 quarto render walkthrough.qmd --to html
 quarto render walkthrough.ipynb --to pdf
